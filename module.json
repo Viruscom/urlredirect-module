@@ -1,0 +1,13 @@
+{
+    "name": "UrlRedirect",
+    "alias": "urlredirect",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UrlRedirect\\Providers\\UrlRedirectServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

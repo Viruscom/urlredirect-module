@@ -1,0 +1,27 @@
+{
+    "name": "iwish/urlredirect-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "test",
+            "email": "test@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\UrlRedirect\\": ""
+        }
+    },
+    "type": "laravel-module",
+    "require": {
+        "spatie/laravel-missing-page-redirector": "* --update-with-dependencies"
+    }
+}
