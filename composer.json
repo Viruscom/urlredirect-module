@@ -22,6 +22,6 @@
     },
     "type": "laravel-module",
     "require": {
-        "spatie/laravel-missing-page-redirector": "* --update-with-dependencies"
+        "spatie/laravel-missing-page-redirector": "^2.8.0"
     }
 }
